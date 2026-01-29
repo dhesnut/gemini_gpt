@@ -1,11 +1,12 @@
 # Gemini Chat App
 
-A modern, ChatGPT-like AI chat application built with Vite + React and powered by the Google Gemini API.
+A modern, ChatGPT-like AI chat application built with Vite + React inspired by the well designed and loved ChatGPT UI but powered by the best AI in the world-Google Gemini.
 
 ## Features
 
 - **Modern UI**: Dark mode interface similar to ChatGPT.
-- **Gemini Integration**: Supports `gemini-1.5-pro`, `gemini-1.5-flash`, and other models.
+- **Latest Library**: Google GenAI SDK
+- **Gemini Integration**: Supports `gemini-3-pro`, `gemini-3-flash`, and other models.
 - **Streaming Responses**: Real-time text generation.
 - **Multi-modal Support**: Upload images and PDFs for analysis.
 - **Grounding**: Google Search grounding enabled.
@@ -40,6 +41,6 @@ A modern, ChatGPT-like AI chat application built with Vite + React and powered b
 ## Technologies
 - Vite + React
 - Tailwind CSS
-- Google Generative AI SDK
+- Google GenAI SDK
 - Lucide React (Icons)
 - React Markdown
