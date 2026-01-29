@@ -1,4 +1,4 @@
-# Gemini Chat App
+# Gemini_GPT
 
 A modern, ChatGPT-like AI chat application built with Vite + React inspired by the well designed and loved ChatGPT UI but powered by the best AI in the world-Google Gemini.
 
